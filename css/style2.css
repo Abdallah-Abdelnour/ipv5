@@ -695,5 +695,10 @@ background: var(--color-primary);
 .br0{
   display: none;
 }
+@media only screen and (min-width: 1200px) {
+.order-2 > p{
+      margin-bottom: 60px;
+}  
+}
 
 
