@@ -639,13 +639,14 @@ background: var(--color-primary);
 
 #pcNone{
  display: block !important;
- margin-top: -25px;
+/*  margin-top: -25px; */
     text-align: center;
 
 
     /**/
 /*   font-size: 18px; */
   font-size: 16.5px;
+ margin-top: -45px;
     /**/
 
 }
@@ -679,8 +680,11 @@ background: var(--color-primary);
 .br0{
   display: block !important;
 }
-
-
+  /**/
+.hero-img{
+      margin-top: -10px;
+}
+/**/
 }
 
 
