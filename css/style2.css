@@ -644,7 +644,8 @@ background: var(--color-primary);
 
 
     /**/
-  font-size: 18px;
+/*   font-size: 18px; */
+  font-size: 16.5px;
     /**/
 
 }
@@ -654,11 +655,12 @@ background: var(--color-primary);
 }
 #phoneNone + p{
   padding-top: 15px;
-    /* font-size: 14px; */
+/*     font-size: 14px; */
 
     /**/
-    font-size: 15px;
-    /**/
+/*     font-size: 15px; */
+    font-size: 13.5px;
+  /**/
 }
 
 .br1,.br2{
@@ -667,10 +669,10 @@ background: var(--color-primary);
 
 .groupSVG {
    max-width: 19%;
-   right: 245px;
+    right: 245px;
 
    /**/
-   /* right: 270px; */
+/*    right: 270px; */
    /**/
 
 }
@@ -689,6 +691,5 @@ background: var(--color-primary);
 .br0{
   display: none;
 }
-
 
 
